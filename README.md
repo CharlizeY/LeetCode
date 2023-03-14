@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode Practice for Data Structure and Algorithm and Database Questions
+LeetCode Questions for Data Structure and Algorithm and Database 
